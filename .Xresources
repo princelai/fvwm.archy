@@ -2,6 +2,8 @@
 URxvt.depth: 32
 URxvt.background: [95]#000000
 URxvt.scrollBar: false
+URxvt.geometry: 55x33+5+30
+URxvt.font: xft:WenQuanYi Micro Hei:size=7
 
 *foreground: #D7D0C7
 *background: #151515
