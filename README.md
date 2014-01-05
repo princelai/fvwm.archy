@@ -1,4 +1,5 @@
 kevin-dot-file
 ==============
 
-my WM system thar fvwm+tint2+zsh+urxvt+conky config files
+my WM system fvwm+tint2+zsh+urxvt+tmux+conky config files
+Put all file to ~/
