@@ -5,7 +5,9 @@ export XDG_DATA_HOME="$HOME/var"
 export DEVEL_HOME="$HOME/dev"
 export BIN_HOME="$HOME/bin"
 
-export LANG="de_DE.utf8"
+export LANG="en_US.utf8"
+export LANGUAGE="en_US.utf8"
+export LC_ALL="C"
 
 export PATH="$PATH:$BIN_HOME:/sbin:/usr/sbin:/usr/local/bin:/opt/jre1.6.0_29/bin"
 
