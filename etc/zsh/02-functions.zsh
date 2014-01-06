@@ -1,7 +1,7 @@
 # {{{ Title stuffs
 precmd() {
 
-  vcs_info
+	vcs_info
 	setprompt
 
 	case $TERM in

@@ -8,7 +8,7 @@ local FMT_PATH="%F{1}%R%F{2}/%S%f"
 setprompt() {
   local USER="%(#.%F{1}.%F{3})%n%f"
   local HOST="%F{1}%M%f"
-  local PWD="%F{7}$($XDG_CONFIG_HOME/zsh/rzsh_path)%f"
+#  local PWD="%F{7}$($XDG_CONFIG_HOME/zsh/rzsh_path)%f"
   local TTY="%F{4}%y%f"
   local EXIT="%(?..%F{202}%?%f)"
   local PRMPT="${USER}@$HOST:${TTY}: ${PWD}

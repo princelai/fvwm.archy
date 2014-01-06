@@ -26,6 +26,7 @@ set undolevels=1000	"undo levels
 set foldmethod=marker "allow marking folds
 set gfn=Envy\ Code\ R\ for\ Powerline\ 10	"font for gvim
 set guicursor+=n-v-c:blinkon0 "cursor for gvim
+set fileencodings=utf8,cp936,gb18030,big5
 
 syntax on	"color syntax highlighting
 filetype plugin on	"load the filetype specific config
